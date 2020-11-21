@@ -1,5 +1,6 @@
 //Create variables here
 var dog, happyDog, database,goodS,foodStock
+var database
 
 function preload()
 {
@@ -28,6 +29,3 @@ function draw() {
   //add styles here
 
 }
-
-
-
